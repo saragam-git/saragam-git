@@ -2,7 +2,7 @@
 
 ### Fullstack Developer | JS | TS | React | Next.js | React Native | Node.js
 
-I'm a **Fullstack Developer** specializing in modern web and mobile applications. I build scalable, user-friendly, and performant solutions using **JavaScript**, **TypeScript**, **React**, **Next.js**, **React Native**, and **Node.js**.
+I'm a **Fullstack Developer** specializing in web and mobile applications using **JavaScript**, **TypeScript**, **React**, **Next.js**, **React Native**, and **Node.js**.
 
 ---
 
