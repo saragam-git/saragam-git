@@ -12,7 +12,14 @@ I'm a **Fullstack Developer** passionate about crafting performant and user-frie
 
 * ⚡ Focused on clean architecture & maintainable code
 * 📱 Building cross-platform apps with modern frameworks
-* 🌱 Learning & exploring new technologies
+* 🌱 Always learning & exploring new technologies
+
+---
+
+## 🌐 Portfolio
+
+🚀 Check out my work:
+👉 **[saragam.com.np](https://saragam.com.np)**
 
 ---
 
@@ -45,13 +52,12 @@ I'm a **Fullstack Developer** passionate about crafting performant and user-frie
 * 🌐 Fullstack web development
 * 📱 Cross-platform mobile apps
 * 🔗 REST APIs & backend systems
-* ⚡ Performance optimization & scalability
-
 ---
 
 ## 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://saragam.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/saragam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/_saragam)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/_saragam)
 
 ---
