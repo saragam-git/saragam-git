@@ -18,7 +18,7 @@ I'm a **Fullstack Developer** passionate about crafting performant and user-frie
 
 ## 🌐 Portfolio
 
-🚀 Check out my work:
+🚀 Check out my portfolio:
 👉 **[saragam.com.np](https://saragam.com.np)**
 
 ---
